@@ -22,4 +22,6 @@ To reproduce this experiment:
 
 | Metric    | Score |
 |-----------|-------|
-| Accuracy  | 0.59  | | F1 Score  | 0.59  | | Eval Loss | 2.23  | ```
+| Accuracy  | 0.59  | 
+| F1 Score  | 0.59  | 
+| Eval Loss | 2.23  | 
